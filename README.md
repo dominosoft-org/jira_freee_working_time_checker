@@ -1,0 +1,2 @@
+# jira_freee_working_time_checker
+freee APIを用いてJIRAのTimesheet Reports and Gadgetsテーブルを更新するスクリプト
